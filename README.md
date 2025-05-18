@@ -1,5 +1,5 @@
 # EstructurasDiscretas
 
-Buen dìa//tardes//noches, aquì encontraràs mis pràcticas de la asignatura de Estructuras discretas, estàn organizadas por carpetas, su nombre hace referencia al nùmero de practica en cuestiòn
+Hola :D, aquí encontrarás mis prácticas de la asignatura de Estructuras discretas, están organizadas por carpetas, su nombre hace referencia al número de practica en cuestión
 
-Josè Àngel Olmedo Guevara
+Realizado por: José Ángel Olmedo Guevara
